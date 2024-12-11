@@ -1,4 +1,4 @@
-A practical introduction to Spectral Graph Theory that goes over its applications in the following topics:
+A practical introduction to Spectral Graph Theory that goes over the following topics:
 - Laplacian Matrix and its spectrum
 - Community Structure and Fiedler Vector
 - Bounding Convergence Rate in Random Walks
